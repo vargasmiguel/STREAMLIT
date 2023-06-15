@@ -7,3 +7,4 @@ if pic:
     st.image(pic)
 
 st.markdown("By Miguel y P$\\alpha$sc$\\alpha$l")
+
